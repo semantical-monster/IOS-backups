@@ -16,4 +16,4 @@ for each in hosts:
 		backup = x.running_config
 		file.write(backup)
 	except:
-		print(each, "CONNECTION FAILED")
+		print(each, " CONNECTION FAILED")
