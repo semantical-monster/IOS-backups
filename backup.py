@@ -1,4 +1,3 @@
-import json
 from pyntc import ntc_device as NTC
 import getpass
 
